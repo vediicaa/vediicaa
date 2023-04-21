@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vediicaa
 - 👀 I’m interested in competitve programming and development
-- 🌱 I’m currently learning DSA and its implementation
+- 🌱 I’m currently learning Backend development
 - 📫 You can contact me at vedica21101@iiitnr.edu.in
 
 <!---
